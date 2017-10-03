@@ -1,0 +1,35 @@
+-List of reference files for this code
+	-alco-beer-list(Name of beers)
+	-alcoholic-drinks(list of classifier required to classify dish as Alcoholic beverages)
+	-alcoholic-drinks-singular(plural to singular mapping file)
+	-ignore-alcoholic(word that if present than dont classify it as Alcoholic beverages)
+	-ignore-non-alcoholic(word that if present than dont classify it as Non Alcoholic beverages)
+	-List of Fruits
+	-non-alcoholic-drinks(list of classifier required to classify dish as Non Alcoholic beverages)
+	-nonalco-other-check-words(other classifier to classify dish as Non Alcoholic beverages based on some condition)
+	-non-alco-singular(plural to singular mapping file)
+	-soft drink(list of soft drinks)
+	-water(list of various types,name and brand of water)
+-Code
+	-lowercase the prod and menu
+	-remove punctuations from prod
+	-remove number from menu and prod
+	-check for classifier for alcoholic beverage and its stopwords in prod first then in menu if not found in prod.
+	-if classifier found and no stopword present then initialize its cuisine,subcuisine and subcategory and flag it
+	-Now find its masterdish and variant from masterdish_clean function.
+		-add classifier to md if not present in the prod
+		-move all contents of "( and )" into variant
+		-remove punctuation from prod except '.' and '%'
+		-remove number and words from quantity list from the prod
+		-remove single alpha from prod if any and final md is found
+	-if it is not classified as alcoholic beverage than only check for non alcoholic.
+		-lowercase the prod and menu
+		-remove punctuations from prod and menu
+		-check for stopwords in menu_prod, if found then skip the row else conntinue
+		-if no stopword then check for non alco classifier by calling function check_non_alco
+			-check for classifier first for prod and not found then for menu
+			-if found then initialize cuisine,subcuisine and subcat based on the logic defined in code
+		-handle softdrink cases by calling the function
+		-if still not classified then use checklist and other list for classifying the product in some category
+	-if no classifier found than leave it blank
+	-put the entry in opfile row by row

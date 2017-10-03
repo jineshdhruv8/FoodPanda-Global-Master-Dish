@@ -1,0 +1,59 @@
+-List of reference files for this code
+	-check_words
+	-classifier_menu
+	-list_of_words_tense_correction
+	-stopwords_prod
+
+-This code will find clean masterdish only for those whose cuisine != alcoholic beverages
+-replace '&' by 'and' in prod
+-replace softdrink words like 7Up,7 up,etc. by 7up.
+-move all contents of brackets to variant and remove it from prod
+-if "/" in prod
+	-split the prod by "/"
+	-now find len and animal name in the above list for every entry
+	-prod= whose len is max and/or animal present
+	-variant=remaining words from the list
+-if "+" in prod
+	-add "combo" to prod
+-remove punct from prod
+-replace word like  'b b q' or ' b l t' by 'bbq' or 'blt' if found in prod
+-if phrase present in prod then remove it from prod and add it to variant
+-remove number from product except few and remove quantity items from prod and move it to variant
+-remove single alphabet from prod if any
+-find preposition in prod if found then
+	-create two strings s1 and s2
+	-s1 = lhs of prep and s2 = rhs of prep
+	-if len(s1) ==1 then new_md=s1+s2
+	-if len(s1)<1 and len(s2)>=1 then new_md=s2
+	-if above condition dont apply then
+		-then take prep_check_words list
+		-if any word from above list present in s1 and animal name in s2 then new_md=animal name+s1,
+			also variant=s2 except the animal name
+		-if above condition not satisfied then
+			-new_md=s1
+			-variant=s2	
+		-if new_md=="" and variant !="" then swap each others value
+		-Now remove stopwords and phrases from new_md if present
+-if no prep then remove stopwords from prod and new_md is found
+-write this output in file(output.csv)
+-find freq of every new_md and store it in dictionary
+-Now break every word of prod by split and store it in word_dict where key =word and value=freq
+-if len of prod == 1 then
+	-remove punct from menu
+	-if classifier from menu list present in menu and not in prod then add it to prod
+-create a dict (prod_dict) that maps the old prod(new_md) with new updated prod(new_md)
+-create a dict (full_map) where value is entire row for final mapping
+-write this output in file(output-new.csv)
+-sort the word_dict based on freq and then on word and store the entry into 
+some list(item_list_all_keys)
+-now match first entry from above list and do string matching of 90% with all entries below in the list.if found then
+	-create a dict(item_dict) where key=old value and value=new value
+-using prod_dict if values of prod_dict present in item_dict key then replace its value by the value of item_dict[key]
+-for each entry in prod_dict, split the value by space and sort it and store it in dict 
+(prod_word_sort)
+-write this output in file(output-new-updated.csv)
+-find freq count of entries in prod_word_sort by freq and then by alphabetically
+-now match first entry from above list and do string matching of 90% with all entries below in the list.if found then
+	-update prod_word_sort accordingly
+	-map the old product with new using two dict named prod_word_sort and prod_dict and map the result in final_dict and sort it.
+	-do tense correction and final file is created

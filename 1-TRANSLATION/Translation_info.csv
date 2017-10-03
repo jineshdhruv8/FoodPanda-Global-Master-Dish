@@ -1,0 +1,47 @@
+﻿Step1: Language Analysis
+-Random entries will be taken from input file
+-Two Output files will be created which are
+	1 language-analysis-data.csv(file 1)
+	2 language-analysis.csv(file 2)
+-file 1 will contain name of product and its language in which it is written using goslate
+-file 2 will contain list of languages in which product is written and no. of occurence of that language.
+
+-This step will help to find out which languages are dominated in majority.
+
+Step2: Find Prod unique
+ -Find unique of prod from input file(say op1)
+-translation of product of op1 will start using goslate
+	-if "," in prod then replace "," by space
+	-detect lang for each prod
+	-if lang not in dominating list of step 1 then overide the lang with lang which is in majority in the list
+	-** Translate the prod input(i1) to english(o1)
+	-Now reverse translate the output(o1) of above step back to original word(i2).
+	-Find % match of i1 and i2 which is equal to x.
+	-IF i1 is already lowercase then o1 is the answer else lowercase i1 and repeat from **. 
+	Now let y be the %match.
+	-if x > y,o1 is the answer else other.
+-Now map back the translation of unique prod to original file.During mapping if translation was not present or error in lookup then flag tha rows which will be handled by next code i.e (remain_prod).
+-remain_code
+	-In this code those product with flag will be again translated using goslate and if translation error occured then original prod will be considered as translated prod and will be mapped accordingly.
+	-Now after this step translation of all products from input file is done appropriately
+
+Step3: Find Menu unique
+-Find unique of menu from input file(say op1)
+-translation of menu of op1 will start using goslate
+	-if "," in menu then replace "," by space
+	-detect lang for each menu
+	-if lang not in dominating list of step 1 then overide the lang with lang which is in majority in the list
+	-** Translate the menu input(i1) to english(o1)
+	-Now reverse translate the output(o1) of above step back to original word(i2).
+	-Find % match of i1 and i2 which is equal to x.
+	-IF i1 is already lowercase then o1 is the answer else lowercase i1 and repeat from **. 
+	Now let y be the %match.
+	-if x > y,o1 is the answer else other.
+-Now map back the translation of unique menu to original file.During mapping if translation was not present or error in lookup then flag tha rows which will be handled by next code i.e (remain_menu).
+-remain_code
+	-In this code those menu with flag will be again translated using goslate and if translation error occured then original menu will be considered as translated menu and will be mapped accordingly.
+	-Now after this step translation of all menu from input file is done appropriately
+
+
+Step 4: Prod_Menu_Combine
+-In this step merging of translated output files of product and menu will be mapped based on count and complete translated file will be generated

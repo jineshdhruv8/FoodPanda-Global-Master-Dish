@@ -1,0 +1,16 @@
+-List of reference files for this code
+	-classifier_menu_ashish_with_order
+	-stopwords_prod
+
+-check for classifier in prod if present then replace it with correct spelling of classifier
+-remove double words from prod
+-remove "and" if prod starts or ends or equals to "and"
+-remove punct from menu
+-call add_classifier function
+	-if len(prod.split())>1
+		-if classifier word in prod then add the correct word using dict by replacing classifier word
+		-if no result yet then do above same for clean_prod
+	else
+		-check for stopwords if absent then do same above things that are in if loop else break
+
+-again call the add_classifier function and send the return value of previous function call with menu
