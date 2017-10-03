@@ -1,0 +1,32 @@
+-List of reference files for this code
+	-animal_dish_subcuisine_list
+	-cooking_method
+	-dessert _wordlist_new
+	-List of Fruits
+	-singular_list
+	-subcat_list
+	-sub_cuisine_v6
+
+-Above code will be only for those entries whose cuisine is not alco and non alco
+-find singular noun form of md,prod and menu using en module in python
+-find the subcuisine based on the wordlist that has classifier which are checked in md,prod and menu
+-based on subcuisine initialize cuisine
+if found then subcuisine is initialized
+-if not then
+	-use other list to find other classifier in md,if found then initialize subcuisine
+-if still not found then
+	-use cooking method list to initialize subcuisine
+
+-use subcat list to find classifier in md+prod
+if found then
+	-subcat is initialized
+	-if subcat==dessert
+		-use dessert checklist to find new_subcuisine and initialize it
+-if subcat not found then do above steps of subcat for menu
+
+-if subcat and subcui == "" then check for fruit in md+prod+menu,if found then
+	-new_cuisine="western"
+	-new_sub_cuisine="salad"
+	-subcat="salad"
+
+	

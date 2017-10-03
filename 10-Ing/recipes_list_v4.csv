@@ -1,0 +1,711 @@
+meat,meat
+pork,pork
+ham,ham
+chicken,chicken
+beef,beef
+gosht,mutton
+mutton,mutton
+goat,goat
+egg,egg
+bacon,bacon
+bacons,bacon
+octopus,octopus
+boar,boar
+alligator,alligator
+crocodile,crocodile
+quail,quail
+rib,rib
+steak,steak
+steaks,steak
+snail,snail
+pigeon,pigeon
+frog,frog
+cow,cow
+buffalo,buffalo
+hen,hen
+calf,calf
+veal,veal
+ostrich,ostrich
+snake,snake
+bird,bird
+duck,duck
+poultry,poultry
+keema,keema
+flesh,flesh
+tuna,tuna
+sardine,sardine
+tilapia,tilapia
+salmon,salmon
+crab,crab
+shrimps,shrimp
+shrimp,shrimp
+clam,clam
+clams,clam
+seafood,seafood
+fish,fish
+eel,eel
+shark,shark
+prawns,prawn
+prawn,prawn
+mussel,mussel
+jellyfish,jellyfish
+lobsters,lobster
+lobster,lobster
+scallops,scallop
+scallop,scallop
+oyster,oyster
+shellfish,shellfish
+toad,toad
+turtle,turtle
+cod,cod
+garlic,garlic
+vegetable,vegetable
+mushroom,mushroom
+onion,onion
+lemon,lemon
+lime,lemon
+potato,potato
+tomato,tomato
+coconut,coconut
+aloe vera,aloe vera
+okra,okra
+bean,bean
+pepperoni,pepperoni
+pumpkin,pumpkin
+corn,corn
+aloo,aloo
+goby,gobi
+gobi,gobi
+spinach,spinach
+olive,olive
+basil,basil
+eggplant,eggplant
+lotus,lotus
+seabass,seabass
+seaweed,seaweed
+gobhi,gobi
+mint,mint
+matar,peas
+ginger,ginger
+palak,spinach
+bhindi,okra
+roots,roots
+sprout,sprout
+sprouts,sprout
+shoot,shoot
+bamboo,bamboo
+cane,cane
+cabbage,cabbage
+carrot,carrot
+carrots,carrot
+lemongrass,lemongrass
+milk,milk
+paner,paneer
+cream,cream
+tofu,tofu
+cheese,cheese
+paneer,paneer
+butter,butter
+yogurt,yogurt
+yoghurt,yogurt
+mozarella,mozarella
+chocolates,chocolate
+chocolate,chocolate
+caviar,caviar
+rice,rice
+chana,chana
+flour,flour
+fruit,fruit
+apple,apple
+apricot,apricot
+avocado,avocado
+banana,banana
+breadfruit,breadfruit
+bilberry,bilberry
+blackberry,blackberry
+blackcurrant,blackcurrant
+blueberry,blueberry
+boysenberry,boysenberry
+cantaloupe,cantaloupe
+currant,currant
+cherry,cherry
+cherimoya,cherimoya
+cloudberry,cloudberry
+cranberry,cranberry
+cucumber,cucumber
+damson,damson
+date,date
+dragonfruit,dragon fruit
+durian,durian
+elderberry,elderberry
+feijoa,feijoa
+fig,fig
+goji berry,goji berry
+gooseberry,gooseberry
+grape,grape
+raisin,raisin
+grapefruit,grapefruit
+guava,guava
+huckleberry,huckleberry
+honeydew,honeydew
+jackfruit,jackfruit
+jambul,jambul
+jujube,jujube
+kiwi fruit,kiwi fruit
+kumquat,kumquat
+loquat,loquat
+lychee,lychee
+mango,mango
+marionberry,marionberry
+melon,melon
+watermelon,watermelon
+rock melon,rock melon
+miracle fruit,miracle fruit
+mulberry,mulberry
+nectarine,nectarine
+nut,nut
+oranges,oranges
+orange,orange
+papaya,papaya
+passionfruit,passionfruit
+peach,peach
+pineapple,pineapple
+pomegranate,pomegranate
+pomelo,pomelo
+purple mangosteen,purple mangosteen
+quince,quince
+raspberry,raspberry
+rambutan,rambutan
+redcurrant,redcurrant
+salal berry,salal berry
+salmon berry,salmon berry
+satsuma,satsuma
+star fruit,star fruit
+strawberry,strawberry
+tamarillo,tamarillo
+ugli fruit,ugli fruit
+water melon,water melon
+dragon fruit,dragon fruit
+eggs,egg
+mayonnaise,mayonnaise
+paprika,paprika
+oregano,oregano
+egg yolks,egg yolks
+egg whites,egg whites
+lettuce,lettuce
+strawberries,strawberry
+pork chops,pork chops
+ground beef,ground beef
+white wine,white wine
+orange juice,orange juice
+rice vinegar,rice vinegar
+coconut milk,coconut milk
+oyster sauce,oyster sauce
+bean sprouts,bean sprouts
+pasta,pasta
+breads,bread
+bread,bread
+whipped cream,whipped cream
+squid,squid
+salad greens,salad greens
+margarine,margarine
+sirloin steak,sirloin steak
+crab meat,crab meat
+raisins,raisin
+vegetable broth,vegetable broth
+rice wine,rice wine
+zucchini,zucchini
+asparagus,asparagus
+green beans,green beans
+blueberries,blueberry
+kiwi,kiwi
+fish fillets,fish fillets
+barbecue sauce,barbecue sauce
+grapes,grape
+crabmeat,crabmeat
+pear,pear
+chocolate syrup,chocolate syrup
+lamb,lamb
+blackberries,blackberry
+ground pork,ground pork
+peanut butter,peanut butter
+barley,barley
+vanilla bean,vanilla bean
+raspberries,raspberry
+vermicelli,vermicelli
+sweet potato,sweet potato
+corn tortillas,corn tortillas
+hazelnuts,hazelnut
+black beans,black beans
+flour tortillas,flour tortillas
+hamburger bun,hamburger bun
+coleslaw,coleslaw
+passion fruit,passion fruit
+hummus,hummus
+oreo cookies,oreo
+bamboo skewers,bamboo skewers
+mussels,mussel
+crabs,crab
+sriracha,sriracha
+dates,date
+lemon jello,lemon jello
+dashi,dashi
+sponge cake,sponge cake
+penne,penne
+cereal,cereal
+cereals,cereal
+apricot jam,apricot jam
+tilapia fillets,tilapia fillets
+apple cider vinegar,apple cider vinegar
+thai chile,thai chile
+yellow bell pepper,yellow bell pepper
+white chocolate,white chocolate
+teriyaki sauce,teriyaki sauce
+poultry seasoning,poultry seasoning
+vegetables,vegetable
+apple cider,apple cider
+udon noodles,udon noodles
+macaroni,macaroni
+biscuit,biscuit
+chicken bouillon,chicken bouillon
+taco seasoning,taco seasoning
+smoked ham,smoked ham
+cranberries,cranberry
+silken tofu,silken tofu
+shiitake mushroom,shiitake mushroom
+milk chocolate,milk chocolate
+oysters,oysters
+italian dressing,italian dressing
+ribs,rib
+saltine crackers,saltine crackers
+pesto,pesto
+strawberry jam,strawberry jam
+chocolate pudding,chocolate pudding
+white fish fillets,white fish fillets
+yellow squash,yellow squash
+thai basil,thai basil
+berries,berries
+chocolate cake,chocolate cake
+broth,broth
+italian bread,italian bread
+fennel,fennel
+dried apricot,dried apricot
+white mushroom,white mushroom
+wheat pitas,wheat pitas
+steak sauce,steak sauce
+marshmallows,marshmallows
+calamari,calamari
+cookie,cookie
+ice cream,ice cream
+pita bread,pita bread
+fish stock,fish stock
+french beans,french beans
+jello,jello
+soy milk,soy milk
+green tomato,green tomato
+smoked sausage,smoked sausage
+chipotle peppers,chipotle peppers
+crackers,cracker
+juniper berries,juniper berries
+caramel sauce,caramel sauce
+tiger shrimp,tiger shrimp
+corned beef,corned beef
+tortilla chips,tortilla chips
+fennel bulb,fennel bulb
+mango chutney,mango chutney
+soba noodles,soba noodles
+cookies,cookie
+baguette,baguette
+beets,beet
+beet,beet
+bourbon,bourbon
+liver,liver
+amaretto liqueur,amaretto liqueur
+salami,salami
+coconut rum,coconut rum
+bun,buns
+buns,buns
+anise,anise
+chicory,chicory
+figs,fig
+orange marmalade,orange marmalade
+jelly,jelly
+dashi stock,dashi stock
+greek yogurt,greek yogurt
+shaoxing wine,shaoxing wine
+gala apples,gala apples
+yam,yam
+pork belly,pork belly
+rib roast,rib roast
+pork ribs,pork ribs
+chocolate ice cream,chocolate ice cream
+guacamole,guacamole
+beef consomme,beef consomme
+banana leaves,banana leaves
+sauerkraut,sauerkraut
+miso paste,miso paste
+light oil,light oil
+halibut fillets,halibut fillets
+sardines,sardine
+chicken liver,chicken liver
+ground lamb,ground lamb
+linguine,linguine
+andouille sausage,andouille sausage
+tangerine,tangerine
+hamburger,hamburger
+catfish fillets,catfish fillets
+dried cherries,dried cherries
+chocolate sprinkles,chocolate sprinkles
+rice krispies,rice krispies
+rhubarb,rhubarb
+shoyu,shoyu
+seltzer,seltzer
+wonton wrapper,wonton wrapper
+rose petals,rose petals
+kidney bean,kidney bean
+marshmallow creme,marshmallow creme
+sesame paste,sesame paste
+lentils,lentils
+croissants,croissants
+croissant,croissants
+habanero,habanero
+trout,trout
+spiral pasta,spiral pasta
+cremini mushrooms,cremini mushrooms
+duck legs,duck legs
+fruit cocktail,fruit cocktail
+taco sauce,taco sauce
+split peas,split peas
+raspberry jam,raspberry jam
+roast pork,roast pork
+enoki mushrooms,enoki mushrooms
+pistachios,pistachios
+crepes,crepes
+custard,custard
+potato flakes,potato flakes
+french dressing,french dressing
+chicken drumstick,chicken drumstick
+corn flakes,corn flakes
+chicken tenders,chicken tenders
+goat meat,goat meat
+sweet pickle,sweet pickle
+meatballs,meatballs
+catfish,catfish
+eggnog,eggnog
+grape leaves,grape leaves
+cornbread,cornbread
+apple jelly,apple jelly
+candy bars,candy bars
+radish sprouts,radish sprouts
+duck breasts,duck breast
+candy canes,candy canes
+pork steak,pork steak
+milk chocolate chips,milk chocolate chips
+beau monde,beau monde
+pecorino,pecorino
+creamed corn,creamed corn
+bonito flakes,bonito flakes
+cherry pie filling,cherry pie filling
+red currant jelly,red currant jelly
+duck breast,duck breast
+pork rinds,pork rinds
+cod fish fillets,cod fish fillets
+margarita mix,margarita mix
+ciabatta,ciabatta
+orange extract,orange extract
+oil,oil
+pretzel,pretzel
+rigatoni pasta,rigatoni pasta
+chervil,chervil
+tomatillo,tomatillo
+mousse,mousse
+brownie,brownies
+brownies,brownies
+breakfast sausage,breakfast sausage
+toast,toast
+ale,ale
+ramen noodles,ramen noodles
+mango nectar,mango nectar
+butterscotch chips,butterscotch chips
+surimi,surimi
+peach schnapps,peach schnapps
+plum,plum
+granola,granola
+saltines,saltines
+hearts of palm,hearts of palm
+white potato,white potato
+ladyfingers,okra
+mixed berries,mixed berries
+consomme,consomme
+semolina,semolina
+black cherries,black cherries
+enchilada sauce,enchilada sauce
+dill sprigs,dill sprigs
+chestnuts,chestnuts
+chayote,chayote
+polenta,polenta
+sea bass,seabass
+hoagie buns,hoagie buns
+ducks,duck
+salmon roe,salmon roe
+squash,squash
+grain bread,grain bread
+haddock fillets,haddock fillets
+green apple,green apple
+mesclun,mesclun
+bouillon,bouillon
+marshmallow,marshmallow
+meringue,meringue
+grape juice,grape juice
+pomegranate juice,pomegranate juice
+lobster tail,lobster tail
+albacore tuna,albacore tuna
+licorice,licorice
+blue cornmeal,blue cornmeal
+cocktail sauce,cocktail sauce
+orange sorbet,orange sorbet
+cod fillet,cod fillet
+frangelico,frangelico
+duck stock,duck stock
+shrimp stock,shrimp stock
+ham stock,ham stock
+garlic bread,garlic bread
+white beans,white beans
+bosc pears,bosc pears
+cheerios,cheerios
+biscuits,biscuits
+yukon gold,yukon gold
+boysenberries,boysenberries
+black currants,black currants
+craisins,craisins
+tarragon vinegar,tarragon vinegar
+mushrooms,mushroom
+anaheim chilies,anaheim chilies
+cupcakes,cupcakes
+passata,passata
+masa,masa
+riesling,riesling
+orecchiette,orecchiette
+citric acid,citric acid
+soy oil,soy oil
+vanilla pod,vanilla pod
+tamarind pulp,tamarind pulp
+goose,goose
+cracker,cracker
+fusilli,fusilli
+madeira,madeira
+tempeh,tempeh
+caramels,caramels
+citron,citron
+monkfish,monkfish
+pastry shells,pastry shells
+white cabbage,white cabbage
+pico de gallo,pico de gallo
+apple butter,apple butter
+dried apple,dried apple
+kernel corn,kernel corn
+curry leaf,curry leaf
+oxtails,oxtails
+lemon thyme,lemon thyme
+orange bell pepper,orange bell pepper
+salsa verde,salsa verde
+curry sauce,curry sauce
+rabbit,rabbit
+duck fat,duck fat
+tapioca starch,tapioca starch
+kielbasa,kielbasa
+espresso beans,espresso beans
+haricots verts,haricots verts
+oreos,oreo
+demerara sugar,demerara sugar
+rum extract,rum extract
+shaved ice,shaved ice
+hazelnut oil,hazelnut oil
+wheat tortillas,wheat tortillas
+dill seed,dill seed
+fruit pectin,fruit pectin
+almond filling,almond filling
+liquid pectin,liquid pectin
+cherry brandy,cherry brandy
+macaroons,macaroons
+lemon sorbet,lemon sorbet
+apple pie spice,apple pie spice
+chinese wine,chinese wine
+english peas,english peas
+rice chex,rice chex
+vanilla powder,vanilla powder
+tzatziki,tzatziki
+kirsch,kirsch
+oat flour,oat flour
+crisp rice cereal,crisp rice cereal
+olive juice,olive juice
+grouper fillets,grouper fillets
+venison,venison
+brown stock,brown stock
+chablis,chablis
+challah,challah
+cornflakes,cornflakes
+demi glace,demi glace
+yucca root,yucca root
+cashews,cashews
+gherkin,gherkin
+linguini,linguini
+mexicorn,mexicorn
+tenderloin,tenderloin
+corn chex,corn chex
+chile oil,chile oil
+quinoa,quinoa
+rutabaga,rutabaga
+bran cereal,bran cereal
+chiffonade,chiffonade
+sweet cherries,sweet cherries
+clementines,clementines
+manicotti shells,manicotti shells
+egg bread,egg bread
+spaghettini,spaghettini
+orange soda,orange soda
+beeswax,beeswax
+plum wine,plum wine
+salmon caviar,salmon caviar
+pernod,pernod
+mortadella,mortadella
+dr pepper,dr pepper
+chipotle sauce,chipotle sauce
+turkey stock,turkey stock
+pea shoots,pea shoots
+nutella,nutella
+sweet peas,sweet peas
+epazote,epazote
+texas toast,texas toast
+brewer's yeast,brewer's yeast
+kohlrabi,kohlrabi
+mung dal,mung dal
+dill,dill
+ciabatta rolls,ciabatta rolls
+apple schnapps,apple schnapps
+pimentos,pimento
+mincemeat,mincemeat
+hibiscus,hibiscus
+fusilli pasta,fusilli pasta
+bocconcini,bocconcini
+collard greens,collard greens
+ground veal,ground veal
+mung beans,mung beans
+annatto seeds,annatto seeds
+spearmint,spearmint
+seafood sauce,seafood sauce
+sweet milk,sweet milk
+lemon curd,lemon curd
+kirschwasser,kirschwasser
+pepitas,pepitas
+peach yogurt,peach yogurt
+quinces,quince
+harissa,harissa
+cheez whiz,cheez whiz
+fava beans,fava beans
+garlic pepper,garlic pepper
+tart shells,tart shells
+ajinomoto,ajinomoto
+asian pear,asian pear
+lavender oil,lavender oil
+swiss chard,swiss chard
+dark raisin,dark raisin
+chanterelles,chanterelles
+bing cherries,bing cherries
+sour cherries,sour cherries
+creme de menthe,creme de menthe
+spanish olives,spanish olives
+crawfish,crawfish
+mustard greens,mustard greens
+won ton skins,won ton skins
+peach preserves,peach preserves
+seafood stock,seafood
+blue crabs,blue crabs
+capellini,capellini
+brisket,brisket
+root beer,root beer
+bay scallop,bay scallop
+carob powder,carob powder
+turkey thighs,turkey thighs
+peanut butter chip,peanut butter chip
+banana chips,banana chips
+dried currant,dried currant
+fromage frais,fromage frais
+red salmon,red salmon
+beet juice,beet juice
+candied fruit,candied fruit
+amaranth flour,amaranth flour
+anisette,anisette
+crab claws,crab claws
+cornichons,cornichons
+rabbits,rabbit
+ganache,ganache
+ditalini,ditalini
+kumquats,kumquats
+white miso,white miso
+knackwurst,knackwurst
+swordfish,swordfish
+crawfish tail,crawfish tail
+tapenade,tapenade
+bologna,bologna
+armagnac,armagnac
+blackberry jam,blackberry jam
+carob chips,carob chips
+chestnut puree,chestnut puree
+epsom salts,epsom salts
+palm oil,palm oil
+witch hazel,witch hazel
+muesli,muesli
+coco lopez,coco lopez
+dried pears,dried pears
+guava nectar,guava nectar
+turkey legs,turkey legs
+dried ancho chile,dried ancho chile
+plum jam,plum jam
+artificial sweetener,artificial sweetener
+vegemite,vegemite
+honey butter,honey butter
+framboise,framboise
+mushroom gravy,mushroom gravy
+pepperoncini,pepperoncini
+yellow pepper,yellow pepper
+wheat couscous,wheat couscous
+gingersnaps,gingersnaps
+bran flakes,bran flakes
+hominy,hominy
+doritos,doritos
+waterchestnuts,waterchestnuts
+light miso,light miso
+ouzo,ouzo
+pimiento,pimiento
+achiote paste,achiote paste
+file powder,file powder
+amaretti,amaretti
+kirby cucumbers,kirby cucumbers
+duckling,duckling
+leek soup mix,leek soup mix
+flax seed oil,flax seed oil
+fig preserves,fig preserves
+green olives,green olives
+orange glaze,orange glaze
+streusel,streusel
+rotini,rotini
+cane syrup,cane syrup
+black truffle,black truffle
+lamb shank,lamb shank
+habanero sauce,habanero sauce
+dry pectin,dry pectin
+marzipan,marzipan
+biscuit dough,biscuit dough
+malibu,malibu
+orzo,orzo
+potato flour,potato flour
+lavash bread,lavash bread
+fructose,fructose
+broccolini,broccolini
+crispix cereal,crispix cereal
+gooseberries,gooseberry
+pimento pepper,pimento pepper
+bechamel sauce,bechamel sauce
+mexican crema,mexican crema
+snap peas,snap peas
